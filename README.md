@@ -14,7 +14,7 @@ Speech_Analysis_syn.sh --> This code will convert MFCC to mgc.
 nn_mfc.py --> Is the python neural network code, which uses original audio files as labels and synthesized files as input to the model.
 
 Speech-enhancement-DNN/data_preparation/ contains miscellaneous codes to assist in data preparation.
-######  dtw is the discrete time warping code, which is used to match the lengths of input and output features of the neural network
+#####  dtw is the discrete time warping code, which is used to match the lengths of input and output features of the neural network
 
 Abstract:
 
