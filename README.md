@@ -34,5 +34,5 @@ that MGCs are a better feature representation for the regression problem.
 Unlike most standard postfiltering techniques, a feedforward deep neural
 network allows for nonlinear smoothing and preserves the sharpness of
 formant peaks. Validations using a HMM-based TTS system for English and
-Kannada show an improvement in the PESQ scores.
+other Indian Languages show an improvement in the PESQ scores.
 
